@@ -23,15 +23,15 @@
 1. Create a test case named ```testShouldBeGreen```.
 2. Add the following code and run.
 
-```
+   ```
     assertEqual(true, false);
-```
+   ```
 
 3. Test result should fail.
 4. Fix it by changing the code to the following and re-run the test.
 
-```
+   ```
     assertEqual(true, true);
-```
+   ```
 
 5. Test result should pass.
